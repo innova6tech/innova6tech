@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=4924F7&random=false&width=435&lines=%3CHello+World+%2F%3E;Bem+vindo(a)+a+Inova6tech!)](https://git.io/typing-svg)
 
 ## Descrição
-Inova6tech é uma empresa de tecnologia focada em desenvolvimento de software inovador e soluções tecnológicas para empresas de diversos segmentos. Nossa missão é impulsionar o sucesso de nossos clientes através de tecnologia de ponta e serviços de alta qualidade.
+Innova6tech é uma empresa de tecnologia focada em desenvolvimento de software inovador e soluções tecnológicas para empresas de diversos segmentos. Nossa missão é impulsionar o sucesso de nossos clientes através de tecnologia de ponta e serviços de alta qualidade.
 
 ## Recursos
 
@@ -16,16 +16,16 @@ Inova6tech é uma empresa de tecnologia focada em desenvolvimento de software in
 
 Utilizamos uma ampla gama de tecnologias modernas para atender às necessidades específicas de nossos clientes, incluindo, mas não limitado a:
 
-- Linguagens de programação: JavaScript, Python, Java, C#, etc.
-- Frameworks: React.js, Angular, Django, Spring Boot, etc.
-- Banco de dados: MySQL, PostgreSQL, MongoDB, etc.
-- Plataformas de nuvem: AWS, Azure, Google Cloud Platform, etc.
+- Linguagens de programação: JavaScript, Python, Java, C#, PHP etc.
+- Frameworks: React.js, Angular, Django, Wordpress, Spring Boot etc.
+- Banco de dados: MySQL, PostgreSQL, MongoDB etc.
+- Plataformas de nuvem: Azure, Google Cloud Platform etc.
 
 ## Sobre
 
-🌟 Inova6tech: Transformando Ideias em Tecnologia de Ponta
+🌟 Innova6tech: Transformando Ideias em Tecnologia de Ponta
 
-Somos uma equipe apaixonada de mulheres empreendedoras na vanguarda da inovação tecnológica. Na Inova6tech, estamos comprometidas em oferecer soluções de software sob medida que impulsionam o sucesso de nossos clientes.
+Somos uma equipe apaixonada de mulheres empreendedoras na vanguarda da inovação tecnológica. Na Innova6tech, estamos comprometidas em oferecer soluções de software sob medida que impulsionam o sucesso de nossos clientes.
 
 💡 Nossa Missão
 
@@ -41,7 +41,7 @@ Estamos comprometidas em estar na vanguarda das tendências tecnológicas. Mante
 
 💼 Parceiras de Sucesso
 
-Na Inova6tech, acreditamos no poder da parceria e colaboração. Trabalhamos em estreita colaboração com nossos clientes para entender suas necessidades exclusivas e oferecer soluções personalizadas que impulsionam o crescimento e o sucesso.
+Na Innova6tech, acreditamos no poder da parceria e colaboração. Trabalhamos em estreita colaboração com nossos clientes para entender suas necessidades exclusivas e oferecer soluções personalizadas que impulsionam o crescimento e o sucesso.
 
 ## Fundadoras e Diretoras
 
