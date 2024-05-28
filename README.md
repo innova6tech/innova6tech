@@ -43,12 +43,6 @@ Estamos comprometidas em estar na vanguarda das tendências tecnológicas. Mante
 
 Na Innova6tech, acreditamos no poder da parceria e colaboração. Trabalhamos em estreita colaboração com nossos clientes para entender suas necessidades exclusivas e oferecer soluções personalizadas que impulsionam o crescimento e o sucesso.
 
-## Fundadoras e Diretoras
-
-<img src="https://media.licdn.com/dms/image/D4D03AQELm5B9pzSjlQ/profile-displayphoto-shrink_200_200/0/1705522510727?e=1714003200&v=beta&t=T2s9xVdZUYyR5j6F1-e8qH6E49TOymSkUTB9kFqTHk4" alt="Ana Silva" width="150" height="150"> | <img src="https://avatars.githubusercontent.com/u/76757362?v=4" alt="Maria Santos" width="150" height="150">
-:---: | :---:
-Lia Augusta | Franciele Fernandes
-
 ✨ Junte-se a Nós
 
 Estamos sempre à procura de mentes talentosas e apaixonadas para se juntarem à nossa equipe. Se você está pronto para fazer parte de uma empresa inovadora e dinâmica, entre em contato conosco hoje mesmo.
